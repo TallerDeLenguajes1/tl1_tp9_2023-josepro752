@@ -1,0 +1,15 @@
+E:\FACULTAD 2023\Taller de Lenguajes 1\PRACTICA\TP9\tl1_tp9_2023-josepro752\bin\Debug\net7.0\tl1_tp9_2023-josepro752.exe
+E:\FACULTAD 2023\Taller de Lenguajes 1\PRACTICA\TP9\tl1_tp9_2023-josepro752\bin\Debug\net7.0\tl1_tp9_2023-josepro752.deps.json
+E:\FACULTAD 2023\Taller de Lenguajes 1\PRACTICA\TP9\tl1_tp9_2023-josepro752\bin\Debug\net7.0\tl1_tp9_2023-josepro752.runtimeconfig.json
+E:\FACULTAD 2023\Taller de Lenguajes 1\PRACTICA\TP9\tl1_tp9_2023-josepro752\bin\Debug\net7.0\tl1_tp9_2023-josepro752.dll
+E:\FACULTAD 2023\Taller de Lenguajes 1\PRACTICA\TP9\tl1_tp9_2023-josepro752\bin\Debug\net7.0\tl1_tp9_2023-josepro752.pdb
+E:\FACULTAD 2023\Taller de Lenguajes 1\PRACTICA\TP9\tl1_tp9_2023-josepro752\obj\Debug\net7.0\tl1_tp9_2023-josepro752.csproj.AssemblyReference.cache
+E:\FACULTAD 2023\Taller de Lenguajes 1\PRACTICA\TP9\tl1_tp9_2023-josepro752\obj\Debug\net7.0\tl1_tp9_2023-josepro752.GeneratedMSBuildEditorConfig.editorconfig
+E:\FACULTAD 2023\Taller de Lenguajes 1\PRACTICA\TP9\tl1_tp9_2023-josepro752\obj\Debug\net7.0\tl1_tp9_2023-josepro752.AssemblyInfoInputs.cache
+E:\FACULTAD 2023\Taller de Lenguajes 1\PRACTICA\TP9\tl1_tp9_2023-josepro752\obj\Debug\net7.0\tl1_tp9_2023-josepro752.AssemblyInfo.cs
+E:\FACULTAD 2023\Taller de Lenguajes 1\PRACTICA\TP9\tl1_tp9_2023-josepro752\obj\Debug\net7.0\tl1_tp9_2023-josepro752.csproj.CoreCompileInputs.cache
+E:\FACULTAD 2023\Taller de Lenguajes 1\PRACTICA\TP9\tl1_tp9_2023-josepro752\obj\Debug\net7.0\tl1_tp9_2023-josepro752.dll
+E:\FACULTAD 2023\Taller de Lenguajes 1\PRACTICA\TP9\tl1_tp9_2023-josepro752\obj\Debug\net7.0\refint\tl1_tp9_2023-josepro752.dll
+E:\FACULTAD 2023\Taller de Lenguajes 1\PRACTICA\TP9\tl1_tp9_2023-josepro752\obj\Debug\net7.0\tl1_tp9_2023-josepro752.pdb
+E:\FACULTAD 2023\Taller de Lenguajes 1\PRACTICA\TP9\tl1_tp9_2023-josepro752\obj\Debug\net7.0\tl1_tp9_2023-josepro752.genruntimeconfig.cache
+E:\FACULTAD 2023\Taller de Lenguajes 1\PRACTICA\TP9\tl1_tp9_2023-josepro752\obj\Debug\net7.0\ref\tl1_tp9_2023-josepro752.dll
